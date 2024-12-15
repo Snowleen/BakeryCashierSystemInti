@@ -1,0 +1,17 @@
+Welcome to Bakery
+Invoice:
+
+Hello dear customer 011-10507377
+Generated on: 2024-12-15 12:02:56
+
+Croissant - 1 x RM2.99 = RM2.99
+Strawberry Cupcake - 1 x RM3.50 = RM3.50
+
+Total Amount: RM6.49
+*Please choose your most comfortable payment method and make transactions accordingly*
+QR Pay number:161461320331
+TNG number:011-1055-7204
+Maybank account number:1573 3088 4789
+*Order will be confirmed and sent to delivery once payment has been confirmed by the cashier system.*
+You can check your order status by refferring to your invoice ID. Thank you!
+Invoice ID: 9

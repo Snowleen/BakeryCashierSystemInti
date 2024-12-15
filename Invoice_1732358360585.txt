@@ -1,0 +1,17 @@
+Welcome to Bakery
+Invoice:
+
+Hello dear customer 01110507377
+Generated on: 2024-11-23 18:39:17
+
+Chocolate Cake - 1 x RM15.99 = RM10.99
+Garlic bread - 1 x RM2.80 = RM2.80
+
+Total Amount: RM13.79
+*Please choose your most comfortable payment method and make transactions accordingly*
+QR Pay number:161461320331
+TNG number:011-1055-7204
+Maybank account number:1573 3088 4789
+*Order will be confirmed and sent to delivery once payment has been confirmed by the cashier system.*
+You can check your order status by refferring to your invoice ID. Thank you!
+Invoice ID: 8

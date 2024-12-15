@@ -1,0 +1,11 @@
+Bakery Receipt
+
+Invoice ID: 7
+Phone Number: 01110507377
+Generated At: 2024-11-23 16:56:19.0
+
+Items:
+Chocolate Cake - 1 x RM15.99 = RM10.99
+Apple Pie - 1 x RM7.00 = RM5.00
+
+Total Amount: RM15.99

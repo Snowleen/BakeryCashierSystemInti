@@ -1,0 +1,17 @@
+Welcome to Bakery
+Invoice:
+
+Hello dear customer 123
+Generated on: 2024-11-18 18:49:15
+
+Chocolate Cake - 1 x RM15.99 = RM10.99
+Croissant - 1 x RM2.99 = RM1.99
+
+Total Amount: RM12.98
+*Please choose your most comfortable payment method and make transactions accordingly*
+QR Pay number:161461320331
+TNG number:011-1055-7204
+Maybank account number:1573 3088 4789
+*Order will be confirmed and sent to delivery once payment has been confirmed by the cashier system.*
+You can check your order status by refferring to your invoice ID. Thank you!
+Invoice ID: 4

@@ -1,0 +1,10 @@
+Bakery Receipt
+
+Invoice ID: 2
+Phone Number: 0149420843
+Generated At: 2024-11-16 21:06:29.0
+
+Items:
+Apple Pie - 2 x RM7.00 = RM10.00
+
+Total Amount: RM10.00

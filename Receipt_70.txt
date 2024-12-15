@@ -1,0 +1,11 @@
+Bakery Receipt
+
+Invoice ID: 1
+Phone Number: 01110507377
+Generated At: 2024-11-16 21:05:06.0
+
+Items:
+Chocolate Cake - 1 x RM15.99 = RM10.99
+Croissant - 1 x RM2.99 = RM2.99
+
+Total Amount: RM13.98
